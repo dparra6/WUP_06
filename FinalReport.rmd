@@ -53,7 +53,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+We can see in this detailed chart we can see that everything is out of 100, and we can see that "black" is still the smallest where "white" is drastically larger. 
 
 ## Inferential Results
 
